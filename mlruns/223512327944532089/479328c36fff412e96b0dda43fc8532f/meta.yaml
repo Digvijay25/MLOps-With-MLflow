@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/479328c36fff412e96b0dda43fc8532f/artifacts
+end_time: 1735005609379
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: 479328c36fff412e96b0dda43fc8532f
+run_name: painted-dolphin-434
+run_uuid: 479328c36fff412e96b0dda43fc8532f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005609303
+status: 3
+tags: []
+user_id: lenovo

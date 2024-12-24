@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/a4d02a529b734d9489bc1828e54d2568/artifacts
+end_time: 1735005610330
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: a4d02a529b734d9489bc1828e54d2568
+run_name: angry-grouse-263
+run_uuid: a4d02a529b734d9489bc1828e54d2568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005610220
+status: 3
+tags: []
+user_id: lenovo

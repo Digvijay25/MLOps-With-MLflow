@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/2a97898c33754a489387cc78194a0195/artifacts
+end_time: 1735005609742
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: 2a97898c33754a489387cc78194a0195
+run_name: rogue-boar-694
+run_uuid: 2a97898c33754a489387cc78194a0195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005609662
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/2dae63cd9777418fb65d23359d14c307/artifacts
+end_time: 1735005610027
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: 2dae63cd9777418fb65d23359d14c307
+run_name: persistent-asp-133
+run_uuid: 2dae63cd9777418fb65d23359d14c307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005609907
+status: 3
+tags: []
+user_id: lenovo

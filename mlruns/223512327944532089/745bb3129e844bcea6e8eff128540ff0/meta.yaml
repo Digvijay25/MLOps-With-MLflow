@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/745bb3129e844bcea6e8eff128540ff0/artifacts
+end_time: 1735005609290
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: 745bb3129e844bcea6e8eff128540ff0
+run_name: whimsical-crow-838
+run_uuid: 745bb3129e844bcea6e8eff128540ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005609187
+status: 3
+tags: []
+user_id: lenovo

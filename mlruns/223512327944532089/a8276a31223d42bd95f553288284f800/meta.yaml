@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/a8276a31223d42bd95f553288284f800/artifacts
+end_time: 1735005609466
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: a8276a31223d42bd95f553288284f800
+run_name: inquisitive-loon-748
+run_uuid: a8276a31223d42bd95f553288284f800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005609389
+status: 3
+tags: []
+user_id: lenovo

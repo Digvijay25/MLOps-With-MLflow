@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/79c6d7cd138246b5808e08920e9d1ff7/artifacts
+end_time: 1735005635134
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: 79c6d7cd138246b5808e08920e9d1ff7
+run_name: bittersweet-mole-68
+run_uuid: 79c6d7cd138246b5808e08920e9d1ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005591847
+status: 3
+tags: []
+user_id: lenovo

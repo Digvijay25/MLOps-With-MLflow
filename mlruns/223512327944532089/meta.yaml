@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089
+creation_time: 1735005589943
+experiment_id: '223512327944532089'
+last_update_time: 1735005589943
+lifecycle_stage: active
+name: breast-cancer-rf-hp

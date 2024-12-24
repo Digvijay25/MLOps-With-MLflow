@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/YouTube-MLOps-Series/MLOps-With-MLflow/mlruns/223512327944532089/0d14aeb8ac6548d389d78e38dc787414/artifacts
+end_time: 1735005610207
+entry_point_name: ''
+experiment_id: '223512327944532089'
+lifecycle_stage: active
+run_id: 0d14aeb8ac6548d389d78e38dc787414
+run_name: stylish-dog-110
+run_uuid: 0d14aeb8ac6548d389d78e38dc787414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735005610124
+status: 3
+tags: []
+user_id: lenovo
