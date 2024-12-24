@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/563531884749514153/79f0e3727dfd4e48bccfc7accbf9267d/artifacts
+end_time: 1735000995273
+entry_point_name: ''
+experiment_id: '563531884749514153'
+lifecycle_stage: active
+run_id: 79f0e3727dfd4e48bccfc7accbf9267d
+run_name: charming-toad-770
+run_uuid: 79f0e3727dfd4e48bccfc7accbf9267d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735000995079
+status: 3
+tags: []
+user_id: lenovo
